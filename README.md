@@ -15,4 +15,4 @@ The Data Professionals Dashboard contains multiple visualizations that allow use
 
 ## Getting Started
 
-To view this dashboard, download the `.pbix` file from this repository and open it in Power BI Desktop.
+To view this dashboard, download the <a href="https://github.com/risahv-Singh77/Data_Professionals_Dashboard_Power_BI/blob/main/Data%20Professional%20Survey%20Breakdown.pbix">`.pbix`</a> file from this repository and open it in Power BI Desktop.
