@@ -34,3 +34,13 @@ This dashboard aims to answer key questions about the data professional workforc
 - Dashboard Interection <a href = "https://github.com/risahv-Singh77/Data_Professionals_Dashboard_Power_BI/blob/main/Main%20Dashboard.png">View Dashboard</a>
 <img width="592" alt="Main Dashboard" src="https://github.com/user-attachments/assets/f6899311-eee6-49da-9dc8-18620caf766c">
 
+## Project Insight
+
+- Data Scientists earn the highest salary compared to other roles in the field.
+- Python is the most popular programming language preferred by data professionals.
+- 24.76% of professionals find it difficult to enter the data industry.
+- The average satisfaction with salary among professionals is 4.27 out of 10.
+
+## Final Conclusion
+The insights derived from this dashboard highlight several key trends within the data profession. While Data Scientists lead in terms of salary, Python remains the dominant language among professionals, reinforcing its importance in the field. However, a significant portion (24.76%) of individuals still faces challenges in entering the data industry, suggesting potential barriers to entry that could be addressed. Lastly, the relatively low satisfaction with salary (4.27/10) points to opportunities for improvement in compensation across roles, particularly for those early in their careers. Overall, these findings offer valuable insights into the current state of the data professional landscape and provide direction for future improvements in both job satisfaction and accessibility to the field.
+
