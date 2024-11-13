@@ -16,3 +16,18 @@ The Data Professionals Dashboard contains multiple visualizations that allow use
 ## Getting Started
 
 To view this dashboard, download the <a href="https://github.com/risahv-Singh77/Data_Professionals_Dashboard_Power_BI/blob/main/Data%20Professional%20Survey%20Breakdown.pbix">`.pbix`</a> file from this repository and open it in Power BI Desktop.
+
+## Question KPIs
+
+This dashboard aims to answer key questions about the data professional workforce. Below are the primary KPIs addressed:
+
+1. **What is the average age of respondents in the survey?**
+2. **Which skills are most widely held among data professionals?**
+3. **What is the geographic distribution of data professionals?**
+4. **Which job titles are most prevalent in the data field?**
+5. **Which programming languages are most preferred by data professionals?**
+6. **What is the average salary across various roles and experience levels?**
+7. **How satisfied are professionals with their work-life balance?**
+8. **How satisfied are professionals with their salary?**
+
+- Dashboard Interection <a href = "https://github.com/risahv-Singh77/Data_Professionals_Dashboard_Power_BI/blob/main/Main%20Dashboard.png">View Dashboard</a>
