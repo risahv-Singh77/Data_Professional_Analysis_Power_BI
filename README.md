@@ -30,4 +30,7 @@ This dashboard aims to answer key questions about the data professional workforc
 7. **How satisfied are professionals with their work-life balance?**
 8. **How satisfied are professionals with their salary?**
 
+## Dashboard
 - Dashboard Interection <a href = "https://github.com/risahv-Singh77/Data_Professionals_Dashboard_Power_BI/blob/main/Main%20Dashboard.png">View Dashboard</a>
+<img width="592" alt="Main Dashboard" src="https://github.com/user-attachments/assets/f6899311-eee6-49da-9dc8-18620caf766c">
+
