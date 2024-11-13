@@ -3,7 +3,7 @@
 A Power BI Dashboard visualizing data on professionals working in the data field. This dashboard provides insights into various aspects such as Salary, locations, and roles, aimed at helping organizations and individuals understand the landscape of data professionals.
 
 ## Dataset Used
--<a href="https://github.com/risahv-Singh77/Data_Professionals_Dashboard_Power_BI/blob/main/Data%20Professional%20Survey.xlsx">`Data Professionals Survey`</a>
+- <a href="https://github.com/risahv-Singh77/Data_Professionals_Dashboard_Power_BI/blob/main/Data%20Professional%20Survey.xlsx">`Data Professionals Survey`</a>
 
 ## Dashboard Overview
 
