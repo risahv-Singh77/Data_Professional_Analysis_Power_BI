@@ -2,6 +2,9 @@
 
 A Power BI Dashboard visualizing data on professionals working in the data field. This dashboard provides insights into various aspects such as Salary, locations, and roles, aimed at helping organizations and individuals understand the landscape of data professionals.
 
+## Dataset Used
+`Data Professionals Survey.xlsx`
+
 ## Dashboard Overview
 
 The Data Professionals Dashboard contains multiple visualizations that allow users to explore and analyze key metrics of the data professional workforce. It includes breakdowns by:
@@ -9,3 +12,7 @@ The Data Professionals Dashboard contains multiple visualizations that allow use
 - **Job Titles** (e.g., Data Analyst, Data Scientist, Data Engineer)
 - **Skills** (e.g., SQL, Python, Machine Learning)
 - **Geographic Locations** (e.g., Country, City)
+
+## Getting Started
+
+To view this dashboard, download the `.pbix` file from this repository and open it in Power BI Desktop.
